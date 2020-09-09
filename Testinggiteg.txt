@@ -1,1 +1,9 @@
-This is my first text file created for the Git .Testing the modification .
+This is my first text file created for the Git . Testing the modification .
+
+Some function for testing :
+
+void add(int a,int b)
+void mul(int a,int b)
+void div(int a,int b)
+void sub(int a,int b)
+
