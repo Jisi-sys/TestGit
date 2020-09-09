@@ -7,3 +7,7 @@ void mul(int a,int b)
 void div(int a,int b)
 void sub(int a,int b)
 
+call the functions for testing.
+check the status.
+
+
