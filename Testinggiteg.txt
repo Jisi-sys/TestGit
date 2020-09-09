@@ -1,9 +1,36 @@
-This is my first text file created for the Git . Testing the modification .
+This is my first text file created for the Git . 
 
-Some function for testing :
+Write Git Commands On Git Bash
+-------------------------------
 
-void add(int a,int b)
-void mul(int a,int b)
-void div(int a,int b)
-void sub(int a,int b)
+>>First time setup :Check version.
+
+>>Set config values using config command.
+
+>>Initialize a repository from existing code using init command.
+
+>>Clone the Git repository from remote to local machine using clone command.
+
+>>Check status before first commit using status command.
+
+>>Add/Remove files to/from local repository using add or reset commands.
+
+>>Commit the changes locally using commit command.
+
+>>Check the changes using pull ,if any using pull command.
+
+>>Push the changes and thus transfer files to remote repository after commit using push command.
+
+
+>>Create a branch/s for desired features using branch command.
+
+>>Can switch between branch to a different branch using checkout command.
+
+>>Check status again using status command.
+
+>>After creating branch we have to repeat the steps above by add changes ,commit, push then merge this branch to the master/root branch using merge command after every modifications made finally.
+
+>>Delete the branch created after merging with the master branch locally and remotely using delete command,if we have no use of it.
+
+
 
