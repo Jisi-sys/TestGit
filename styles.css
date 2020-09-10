@@ -1,11 +1,33 @@
 body 
 {  
   	font-family: Calibri, Helvetica, sans-serif;  
- 	 background-color: lightblue;  
+ 	 background-color:#666699 ;  
 }
  
 h1
 {
 	color: #ffffff;
-	background-color: olive;
+	background-color: #339966;
 } 
+h4
+{
+	color: #ff9966;
+	text-align: center;
+}
+
+p
+{
+	color: #333399;
+  	font-family: verdana;
+  	font-size: 200%;
+}
+
+.container
+{
+	border: 2px yellow;
+  	background-color: lightgeen;    
+	width:100%;
+	height: auto;
+	top:40%
+	text-align: center;
+}
